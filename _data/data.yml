@@ -14,31 +14,26 @@ sidebar:
     # Sidebar links
     email: ntanhthi@gmail.com
     phone: 093 812 7782
-    linkedin: alandoe
-    github: sharu725
+    linkedin: thi-nguyen-ba147aa0
+    github: ntanhthi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ThiNguy07724281'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Vietnam
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Trekking 
         link:
 
       - item: Cooking
@@ -77,7 +72,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Senior Quality Control 
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
